@@ -32,6 +32,6 @@ Whether you are new to programming or want to expand your skills, this course wi
 </p>
 
 <p style='text-align: justify;'> 
-I will be happy to share more details on the course if you need it. Please feel free to contact me at mehrdad.samadi90@gmail.com.
+I will be happy to share more details on the course if you need it. Please feel free to contact me at <b>mehrdad.samadi90@gmail.com</b>.
 </p>
 
