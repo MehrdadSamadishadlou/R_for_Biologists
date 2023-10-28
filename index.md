@@ -10,6 +10,9 @@ filename: index
 
 # About this Course
 
+![_5804f6c7-f877-40f6-accc-ec2af2d8aae3](https://github.com/MehrdadSamadishadlou/R_for_life_scientists/assets/95024166/462b35f6-940d-44a9-a5bd-35e2e9725124)
+
+
 <p style='text-align: justify;'> 
 Join me for an introductory course on applying R programming for life science research. In this 10-session course starting Aban 24th, we will cover the fundamentals of R along with key techniques for handling, visualizing, and analyzing biological data. 
 </p>
@@ -26,5 +29,7 @@ Each session will feature hands-on activities to apply what you learn. Our first
 Whether you are new to programming or want to expand your skills, this course will equip you with R abilities to advance your research. By the end, you’ll be able to use R to effectively manage, interpret, and present biological data. I look forward to fostering an interactive learning community for computational abilities relevant to life science!
 </p>
 
-
+<p style='text-align: justify;'> 
+I will be happy to share more details on the course if you need it. Please feel free to contact me at mehrdad.samadi90@gmail.com.
+</p>
 
