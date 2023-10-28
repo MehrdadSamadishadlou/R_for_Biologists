@@ -35,3 +35,8 @@ Whether you are new to programming or want to expand your skills, this course wi
 I will be happy to share more details on the course if you need it. Please feel free to contact me at <b>mehrdad.samadi90@gmail.com</b>.
 </p>
 
+<p style='text-align: justify;'> 
+For registration, please follow the link to the RDCC workshops website:
+</p>
+
+<a href="https://rdcc.tbzmed.ac.ir/" target="_blank"><button>RDCC</button></a>
