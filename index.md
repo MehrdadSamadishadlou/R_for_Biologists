@@ -14,7 +14,6 @@ filename: index
 <p style="text-align: center"><img width="450" alt="Picture1" src="https://github.com/MehrdadSamadishadlou/R_for_life_scientists/assets/95024166/43aaf08f-5d58-418a-9514-e2b54c27dbb1"></p>
 
 
-
 <p style='text-align: justify;'> 
 Join me for an introductory course on applying R programming for life science research. In this 10-session course starting Aban 24th, we will cover the fundamentals of R along with key techniques for handling, visualizing, and analyzing biological data. 
 </p>
@@ -36,6 +35,6 @@ I will be happy to share more details on the course if you need it. Please feel 
 </p>
 
 <p style='text-align: justify;'> 
-For registration, please follow the link to the <a href="https://rdcc.tbzmed.ac.ir/" target="_blank"><button>RDCC workshops website</button></a>.
+This course, conducted in collaboration with the Research Development & Coordination Center (RDCC) and Student Research Committee (SRC) of Tabriz University of Medical Sciences, is open for registration. Please follow the link to the RDCC workshops website for more information and to sign up:  <a href="https://rdcc.tbzmed.ac.ir/" target="_blank"><button>RDCC</button></a>.
 </p>
 
