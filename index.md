@@ -31,10 +31,10 @@ Whether you are new to programming or want to expand your skills, this course wi
 </p>
 
 <p style='text-align: justify;'> 
-I will be happy to share more details on the course if you need it. Please feel free to contact me at <b>mehrdad.samadi90@gmail.com</b>.
+If you would like any additional details about the course or want to connect, I'm happy to provide more information and answer questions - feel free to reach out to me directly at <b>mehrdad.samadi90@gmail.com</b> or visit my <a href="https://www.linkedin.com/in/mehrdad-samadishadlou-90723580/" target="_blank"><button>LinkedIn profile</button></a> to learn more about my background.
 </p>
 
 <p style='text-align: justify;'> 
-This course, conducted in collaboration with the Research Development & Coordination Center (RDCC) and Student Research Committee (SRC) of Tabriz University of Medical Sciences, is open for registration. Please follow the link to the RDCC workshops website for more information and to sign up:  <a href="https://rdcc.tbzmed.ac.ir/" target="_blank"><button>RDCC</button></a>.
+This course, conducted in collaboration with the Research Development & Coordination Center (RDCC) and Student Research Committee (SRC) of Tabriz University of Medical Sciences, is open for registration. Please follow the link to the RDCC workshops website for more information and to sign up:  .
 </p>
 
