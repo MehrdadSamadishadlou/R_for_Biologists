@@ -10,7 +10,8 @@ filename: index
 
 # About this Course
 
-![_5804f6c7-f877-40f6-accc-ec2af2d8aae3](https://github.com/MehrdadSamadishadlou/R_for_life_scientists/assets/95024166/462b35f6-940d-44a9-a5bd-35e2e9725124)
+<img width="320" alt="Picture1" src="https://github.com/MehrdadSamadishadlou/R_for_life_scientists/assets/95024166/43aaf08f-5d58-418a-9514-e2b54c27dbb1">
+
 
 
 <p style='text-align: justify;'> 
