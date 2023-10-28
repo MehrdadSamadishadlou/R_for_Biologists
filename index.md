@@ -36,7 +36,6 @@ I will be happy to share more details on the course if you need it. Please feel 
 </p>
 
 <p style='text-align: justify;'> 
-For registration, please follow the link to the RDCC workshops website:
+For registration, please follow the link to the RDCC workshops website: <a href="https://rdcc.tbzmed.ac.ir/" target="_blank"><button>RDCC</button></a>
 </p>
 
-<a href="https://rdcc.tbzmed.ac.ir/" target="_blank"><button>RDCC</button></a>
