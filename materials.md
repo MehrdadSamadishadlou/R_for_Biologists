@@ -15,10 +15,10 @@ You can download it free from the <b>CRAN</b> if you haven't installed R on your
 
 <p style='text-align: justify;'>
   <font color="green">
-    The CRAN Admin Team will be performing system upgrades on the Comprehensive R Archive Network (CRAN) from Wednesday, November 15 until Thursday, November 16, 2023.
-    
-    During this time, you may experience intermittent connectivity issues or an inability to access CRAN mirrors when trying to download R packages. This is expected behavior during the upgrade window.
-  <\font>
+  The CRAN Admin Team will be performing system upgrades on the Comprehensive R Archive Network (CRAN) from Wednesday, November 15 until Thursday, November 16, 2023.
+  
+  During this time, you may experience intermittent connectivity issues or an inability to access CRAN mirrors when trying to download R packages. This is expected behavior during the upgrade window.
+  </font>
 </p>
 
 
