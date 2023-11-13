@@ -5,7 +5,7 @@ filename: materials
 --- 
 
   
-## Installing R
+## Installing R and RStudio
 
 <p style='text-align: justify;'>
 You can download it free from the <b>CRAN</b> if you haven't installed R on your computer yet. Follow this link to the download page:
