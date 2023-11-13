@@ -29,9 +29,4 @@ An IDE, or Integrated Development Environment, is a software application that pr
 
 # Session 1
 
-RStudio CheatSheet including its most common key bindings:
-
-[rstudio-ide.pdf](https://github.com/MehrdadSamadishadlou/R_for_life_scientists/files/13334540/rstudio-ide.pdf)
-
-
-
+RStudio CheatSheet including its most common key bindings: <a href="https://rstudio.github.io/cheatsheets/html/rstudio-ide.html" target="_blank"><button>RStudio IDE :: Cheatsheet</button></a>
