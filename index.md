@@ -42,4 +42,4 @@ This course, conducted in collaboration with the Research Development & Coordina
 
 # Selecting A Time:
 
-<a href="https://www.when2meet.com/?22375743-6TGxX" target="_blank"><Please press the button to participate in the poll>POLL</button></a>
+<a href="https://www.when2meet.com/?22375743-6TGxX" target="_blank"><button>Please press the button to participate in the poll</button></a>
