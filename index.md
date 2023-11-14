@@ -38,3 +38,8 @@ If you would like any additional details about the course or want to connect, I'
 This course, conducted in collaboration with the Research Development & Coordination Center (RDCC) and Student Research Committee (SRC) of Tabriz University of Medical Sciences, is open for registration. Please follow the link to the RDCC workshops website for more information and to sign up: <a href="https://rdcc.tbzmed.ac.ir/" target="_blank"><button>RDCC</button></a>
 </p>
 
+
+
+# Selecting A Time:
+
+Please follow the link to participate in the poll: <a href="https://www.when2meet.com/?22375743-6TGxX" target="_blank"><button>POLL</button></a>
