@@ -4,7 +4,7 @@ layout: template
 filename: nexercises
 --- 
 
-**Please email me your answers as a single R script file. In the script file define which question the answer is for using comments (`#`). If the question needs any explanation again please add it to your script as a comment.**
+**Please email me your answers as a single R script file. In the script file define which question the answer is for using comments (`#`). If the question needs any explanation please add it to your script as a comment.**
 
 Example answer:
 ```
