@@ -30,6 +30,13 @@ RStudio CheatSheet including its most common key bindings: <a href="https://rstu
 
 Other materials including presentation slides and R script can be downloaded here:
 
-<a href="https://drive.google.com/file/d/1RditmwTi0UPQcINqIMcxBhs__BZc6-iV/view?usp=sharing" target="_blank"><button>Presentation</button></a>  <a href="https://drive.google.com/file/d/1HWuZxByTwAC9rI0sce4G4KMNGa44ZiwY/view?usp=sharing" target="_blank"><button>Session Codes</button></a>
+<a href="https://drive.google.com/file/d/1RditmwTi0UPQcINqIMcxBhs__BZc6-iV/view?usp=sharing" target="_blank"><button>Presentation</button></a>  <a href="https://drive.google.com/file/d/1HWuZxByTwAC9rI0sce4G4KMNGa44ZiwY/view?usp=sharing" target="_blank"><button>Session 1 Codes</button></a>
+
+# Session 2
+
+You can download the script of the second session from the following link. You can also download the notes taken and generously shared by Mr. Shahin Ahmadian. 
+
+<a href="https://drive.google.com/file/d/1ErsrrPM3xyI_9SV0E83EBipK1CNU25sA/view?usp=sharing" target="_blank"><button>Session 2 Codes</button></a>  <a href="https://drive.google.com/file/d/1Cuuv8aLX5hazIn5xvi_dvfTjhjfNG5m0/view?usp=sharing" target="_blank"><button>Session 2 Notes</button></a>
+
 
 
