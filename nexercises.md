@@ -21,7 +21,7 @@ filename: nexercises
    2. How many different variables are in the dataset?
    3. What is the variable type of title?
    4. What is the variable type of genres?
-   5. how many levels are in the factor genres?
+   5. How many levels are in the factor genres?
   
 6. Create a vector x of integers that starts at 12 and ends at 73. Determine the length of object x.
 7. Create a vector containing all the positive odd numbers smaller than 100. The numbers should be in descending order.
@@ -30,6 +30,15 @@ filename: nexercises
 10. Define the variable **i** to be the index of the smallest state. Define variable **states** to hold the states. Use the index you just defined to find the state with the smallest population.
 11. Store the per 100,000 murder rate for each state in **murder_rate**. Using this variable, calculate the average murder rate in the US.
 12. If the vector **x** is defined as follows: `x <- c(2, 43, 27, 96, 18)`, match the following outputs to the function that produces that output. Options include sort(x), order(x), and none of these:
-   1. 1, 2, 3, 4, 5
-   2. 1, 5, 3, 2, 4
-   3. 18, 27, 43, 96
+   1. `1, 2, 3, 4, 5`
+   2. `1, 5, 3, 2, 4`
+   3. `18, 27, 43, 96`
+
+13. Akbar, Sarah, Ali, and Nastaran all ran different distances in different time intervals. Their distances (in km) and times (in minutes) are as follows:
+```
+name <- c("Akbar", "Sarah", "Ali", "Nastaran")
+distance <- c(0.8, 3.1, 2.8, 4.0)
+time <- c(10, 30, 40, 50)
+```
+Write a line of code to convert time to hours. Then write a line of code to calculate the speed of each runner in km per hour. Speed is distance divided by time. Who was the fastest runner?
+
