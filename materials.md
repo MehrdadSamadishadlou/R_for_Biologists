@@ -6,7 +6,7 @@ filename: materials
 
 All sessions will be recorded and  uploaded to YouTube. You can find the videos in the following link:
 
-<a href="https://www.youtube.com/@MehrdadSamadishadlou" target="_blank"><button>R Course Videos</button></a>
+<a href="https://www.youtube.com/@MehrdadSamadishadlou" target="_blank"><button>R Videos</button></a>
 
 
 ## Installing R and RStudio
