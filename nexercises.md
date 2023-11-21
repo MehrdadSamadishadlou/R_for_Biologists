@@ -12,7 +12,9 @@ Example answer:
 sum(1:100)
 
 # Question 2:
-
+.
+.
+.
 ```
 
 ## Exercise 1
