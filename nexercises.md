@@ -4,6 +4,16 @@ layout: template
 filename: nexercises
 --- 
 
+**Please email me your answers as a single R script file. In the script file define which question this answer is for using comments (`#`). If the question needs any explanation again please add it to your script as a comment.**
+
+Example answer:
+```
+# Question 1:
+sum(1:100)
+
+# Question 2:
+
+```
 
 ## Exercise 1
 
