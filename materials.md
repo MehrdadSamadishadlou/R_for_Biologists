@@ -38,5 +38,9 @@ You can download the script of the second session from the following link. You c
 
 <a href="https://drive.google.com/file/d/1ErsrrPM3xyI_9SV0E83EBipK1CNU25sA/view?usp=sharing" target="_blank"><button>Session 2 Codes</button></a>  <a href="https://drive.google.com/file/d/1Cuuv8aLX5hazIn5xvi_dvfTjhjfNG5m0/view?usp=sharing" target="_blank"><button>Session 2 Notes</button></a>
 
+# Session 3
 
+The script for the third session is available for download.
+
+<a href="https://drive.google.com/file/d/1vCmEAkvv0PWJnn09A9RWlfjZ0GNVmbmY/view?usp=sharing" target="_blank"><button>Session 3 Codes</button></a>
 
