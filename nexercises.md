@@ -54,3 +54,18 @@ time <- c(10, 30, 40, 50)
 ```
 Write a line of code to convert time to hours. Then write a line of code to calculate the speed of each runner in km per hour (Speed is distance divided by time). Who was the fastest runner?
 
+
+
+## Exercise 2
+
+1. Using **murders** dataset, create a table, call it **my_states**, that satisfies both the conditions: it is in the Northeast or West and the murder rate is less than 1. Use `select` to show only the state name, the rate, and the rank.
+
+
+Let's explore the **NHANES** data. We will be exploring blood pressure in this dataset. First, let's select a group to set the standard. We will use 20-29 year old females. Note that the category is coded with ` 20-29`, with a space in front of the 20! The AgeDecade is a categorical variable with these ages. To know if someone is female, you can look at the Gender variable.
+
+
+2. Filter the **NHANES** dataset so that only ` 20-29` year old females are included and assign this new data frame to an object. Now we will compute the average and standard deviation for the subgroup we defined (` 20-29` year old females), which we will use reference for what is typical. Write a line of code to save the average and standard deviation of systolic blood pressure (BPSysAve column) as average and standard_deviation to a variable called ref.
+3. Report the min and max values for the same group as in the previous exercises. Use `filter` and `summarise` connected by the pipe `%>%` again. The functions min and max can be used to get the values you want.
+4. Calculate the average and standard deviation of systolic blood pressure for males for each age group separately.
+5. We can use group_by(AgeDecade, Gender) to group by both age decades and gender. Create a single summary table for the average and standard deviation of systolic blood pressure using group_by(AgeDecade, Gender).
+6. Compute the average and standard deviation for each value of the Race1 column for males in the age decade ` 40-49`. Order the resulting table from lowest to highest average systolic blood pressure.
