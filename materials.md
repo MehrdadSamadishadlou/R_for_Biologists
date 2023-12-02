@@ -44,3 +44,8 @@ The script and notes (thanks to Mr. Ahmadian) for the third session are availabl
 
 <a href="https://drive.google.com/file/d/1vCmEAkvv0PWJnn09A9RWlfjZ0GNVmbmY/view?usp=sharing" target="_blank"><button>Session 3 Codes</button></a>  <a href="https://drive.google.com/file/d/1XnJlFzh-OoDcyhP4iOj6nJh3pQO1OM5C/view?usp=sharing" target="_blank"><button>Session 3 Notes</button></a>
 
+# Session 3
+
+The script for the third session is available for download.
+
+<a href="https://drive.google.com/file/d/1rxdDZbJ0PRMvAQkQEpJrWIBBlBc585Pa/view?usp=sharing" target="_blank"><button>Session 3 Codes</button></a>
