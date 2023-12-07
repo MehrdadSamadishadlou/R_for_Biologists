@@ -50,8 +50,13 @@ The script for the Fourth session is available for download.
 
 <a href="https://drive.google.com/file/d/1rxdDZbJ0PRMvAQkQEpJrWIBBlBc585Pa/view?usp=sharing" target="_blank"><button>Session 4 Codes</button></a> <a href="https://drive.google.com/file/d/11hjxDG0aORA-vbKskxztF6lhkwXTd7uF/view?usp=sharing" target="_blank"><button>Visualization Presentation</button></a>
 
-
 # Session 5
+
+The script for the Fifth session is available for download.
+
+<a href="https://drive.google.com/file/d/1meiTiqPGwR4-CZlug0G35xg7hhGwSHsw/view?usp=sharing" target="_blank"><button>Session 4 Codes</button></a>
+
+# Session 6
 
 ```
 west <- c("Western Europe", "Northern Europe", 
