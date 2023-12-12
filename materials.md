@@ -64,3 +64,12 @@ west <- c("Western Europe", "Northern Europe",
           "Australia and New Zealand")
 ```
 
+
+# Session 7
+
+The data related to the lesson can be downloaded through the following links:
+
+<a href="https://drive.google.com/file/d/1Rgiv8Po2LcmaqNrdVSYBGcs1awEdqYJO/view?usp=sharing" target="_blank"><button>Experiment Data</button></a> <a href="https://drive.google.com/file/d/1ge-P5TPioz3BYc_2Dgdh6d5Y7jSFTLim/view?usp=sharing" target="_blank"><button>Population Data</button></a>
+
+
+
