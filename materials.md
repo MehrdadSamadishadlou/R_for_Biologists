@@ -58,11 +58,9 @@ The script for the Fifth session is available for download.
 
 # Session 6
 
-```
-west <- c("Western Europe", "Northern Europe", 
-          "Southern Europe", "Northern America", 
-          "Australia and New Zealand")
-```
+The script for the sixth session is available for download.
+
+<a href="https://drive.google.com/file/d/1QVaiHeDP77YPmb0IQQGcMJFCZscW8AI_/view?usp=sharing" target="_blank"><button>Session 6 Codes</button></a>
 
 
 # Session 7
@@ -70,6 +68,10 @@ west <- c("Western Europe", "Northern Europe",
 The data related to the lesson can be downloaded through the following links:
 
 <a href="https://drive.google.com/file/d/1Rgiv8Po2LcmaqNrdVSYBGcs1awEdqYJO/view?usp=sharing" target="_blank"><button>Experiment Data</button></a> <a href="https://drive.google.com/file/d/1ge-P5TPioz3BYc_2Dgdh6d5Y7jSFTLim/view?usp=sharing" target="_blank"><button>Population Data</button></a>
+
+The script for the Seventh session is available for download.
+
+<a href="https://drive.google.com/file/d/1iarMQKoAaQtbBjl-3joTAFQ9mAVURZx6/view?usp=sharing" target="_blank"><button>Session 7 Codes</button></a>
 
 
 
