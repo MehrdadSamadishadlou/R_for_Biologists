@@ -73,5 +73,20 @@ The script for the Seventh session is available for download.
 
 <a href="https://drive.google.com/file/d/1iarMQKoAaQtbBjl-3joTAFQ9mAVURZx6/view?usp=sharing" target="_blank"><button>Session 7 Codes</button></a>
 
+# Session 8 and 9
 
+```
+#### Differential Express Analysis ####
+gr <- factor(gr)
+geneset$description <- gr
+
+design <- model.matrix(~ description + 0, geneset)
+colnames(design) <- levels(gr)
+
+fit <- lmFit(geneset, design)
+cont.matrix <- makeContrasts(c-h, levels=design)
+fit2 <- contrasts.fit(fit, cont.matrix)
+fit2 <- eBayes(fit2, 0.01)
+tT <- topTable(fit2, adjust="fdr", sort.by="B", number=Inf)
+```
 
