@@ -73,7 +73,11 @@ The script for the Seventh session is available for download.
 
 <a href="https://drive.google.com/file/d/1iarMQKoAaQtbBjl-3joTAFQ9mAVURZx6/view?usp=sharing" target="_blank"><button>Session 7 Codes</button></a>
 
-# Session 8 and 9
+# Sessions 8 and 9
+
+The dataset related to the lesson can be downloaded through the following links:
+
+<a href="https://drive.google.com/file/d/1WQYCOsGOvLN2bJUiQlMDtHOrx-8no1bP/view?usp=sharing" target="_blank"><button>Expression Matrix</button></a> <a href="https://drive.google.com/file/d/1_iYToXhwk4qa_b9uXP9C67bIE62RRwMK/view?usp=sharing" target="_blank"><button>Platform Annotation</button></a>
 
 ```
 #### Differential Express Analysis ####
