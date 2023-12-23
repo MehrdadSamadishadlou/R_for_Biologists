@@ -96,4 +96,4 @@ tT <- topTable(fit2, adjust="fdr", sort.by="B", number=Inf)
 
 The script of the DEG analysis and RMarkdpwn demo is available for download as a zip file.
 
-<a href="https://drive.google.com/file/d/1oGDfNchc9ve51WknNs1bHER_uYRPXDP-/view?usp=sharing" target="_blank"><button>Expression Matrix</button></a> 
+<a href="https://drive.google.com/file/d/1oGDfNchc9ve51WknNs1bHER_uYRPXDP-/view?usp=sharing" target="_blank"><button>Seesion 8 and 9 Codes</button></a> 
